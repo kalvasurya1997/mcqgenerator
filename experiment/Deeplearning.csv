@@ -1,0 +1,11 @@
+MCQ,Choices,Correct
+What is the primary difference between deep learning and traditional machine learning?,a: Deep learning uses simple neural networks. | b: Deep learning can only use supervised learning. | c: Deep learning models use three or more layers. | d: Deep learning models require labeled data.,c
+Which of the following frameworks is NOT typically used for deep learning applications?,a: PyTorch | b: TensorFlow | c: JAX | d: Java,d
+What type of neural network is primarily used for image classification tasks?,a: Recurrent Neural Networks (RNNs) | b: Convolutional Neural Networks (CNNs) | c: Autoencoders | d: Transformer models,b
+What is a common disadvantage of Recurrent Neural Networks (RNNs)?,a: They require labeled data. | b: They have a high risk of overfitting. | c: They are prone to vanishing and exploding gradients. | d: They are not suitable for sequence data.,c
+Which deep learning model is known for its encoder-decoder architecture?,a: Convolutional Neural Networks (CNNs) | b: Generative Adversarial Networks (GANs) | c: Transformer models | d: Variational Autoencoders (VAEs),c
+What is the main advantage of using Generative Adversarial Networks (GANs)?,a: They are easy to interpret. | b: They require minimal computational resources. | c: They can create realistic outputs resembling real data. | d: They do not require labeled data.,c
+Which of the following is a key feature of diffusion models?,a: They use adversarial training. | b: They add Gaussian noise to training data. | c: They primarily work with text data. | d: They are prone to mode collapse.,b
+What is one potential weakness of deep learning models?,a: They are easily interpretable. | b: They require structured data. | c: They can be 'black boxes' with interpretability challenges. | d: They are not scalable.,c
+In what area is computer vision NOT commonly used?,a: Automotive industry | b: Healthcare | c: Retail | d: Cooking,d
+What is a significant advantage of using autoencoders?,a: They require labeled data. | b: They can compress data for anomaly detection. | c: They are easy to train. | d: They are only used for image data.,b
