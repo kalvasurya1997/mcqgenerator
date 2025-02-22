@@ -11,6 +11,7 @@ from src.mcqgeneratorproject.utils import read_file, get_table_data
 from src.mcqgeneratorproject.mcqgenerator import generate_evaluate_chain
 from src.mcqgeneratorproject.logger import logging
 
+
 # loading Json file
 with open(r"C:\Users\kalva\mcqgenerator\Response.json", "r") as file:
     RESPONSE_JSON = json.load(file)
